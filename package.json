@@ -1,0 +1,19 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icarolopes/js-tdd.git"
+  },
+  "author": "Icaro Lopes <icarofernandeslopes@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icarolopes/js-tdd/issues"
+  },
+  "homepage": "https://github.com/icarolopes/js-tdd#readme"
+}
